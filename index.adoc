@@ -1,8 +1,7 @@
 = Colonna Lab
-:sectnums:
+:toc-title: Page Content
 :toc: left
 :toclevels: 4
-:toc-title: Page Content
 :imagedir: images/
 
 Welcome to the Population Genomics Laboratory of the http://www.igb.cnr.it/[Institute of Genetics and Biophysics].
