@@ -7,7 +7,7 @@
 Welcome to the Population Genomics Laboratory of the http://www.igb.cnr.it/[Institute of Genetics and Biophysics].
 We are interested in understanding causes and consequences of genetic diversity and how natural selection in humans affects loci related to diseases
 
-== Research
+== *Research*
 
 === Genomics of Recurrent Pregnancy Loss (GReP)
 
@@ -83,7 +83,7 @@ image:images/consang_pop.png[consang_pop,500,400,role="right"] In consanguineous
 
 We are interested in understanding and characterizing the incidence of deleterious mutations in consanguineous populations.
 
-== People
+== *People*
 
 === *Vincenza Colonna*
 
@@ -138,7 +138,7 @@ For my thesis, I am studying embryonic mitochondrial sequences from recurrent mi
 * Lucia De Martino, visiting Graduate Student, 2016
 
 
-== Publications
+== *Publications*
 
 See them on https://scholar.google.it/citations?user=ufP1EYgAAAAJ&hl=en&oi=ao[Google Scholar] or in http://publicationslist.org/vincenza.colonna[Publication]
 
@@ -227,7 +227,7 @@ Book chapters
 * 2011 Barbujani G., Colonna V. (2011). Genetic bases of human biodiversity: an update. . In: Zachos F.E., Habel J.C. . Biodiversity Hotspots . p. 97-120, berlino:springer, ISBN: 9783642209918
 * 2010 BARBUJANI G, COLONNA V (2010). Genetic bases of human biodiversity: an update. In: ZACHOS F. BIODIVERSITY HOTSPOTS. BERLIN:Springer
 
-== Contacts
+== *Contacts*
 
 Vincenza Colonna, PhD
 
