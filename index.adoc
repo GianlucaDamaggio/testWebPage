@@ -2,7 +2,7 @@
 :sectnums:
 :toc: left
 :toclevels: 4
-:toc-title: My Content
+:toc-title: Page Content
 :imagedir: images/
 
 Welcome to the Population Genomics Laboratory of the Institute of Genetics and Biophysics.
