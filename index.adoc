@@ -5,7 +5,7 @@
 :toc-title: My Content
 :imagedir: images/
 
-Welcome to the Population Genomics Laboratory of the Institute of Genetics and Biophysics
+Welcome to the Population Genomics Laboratory of the Institute of Genetics and Biophysics.
 We are interested in understanding causes and consequences of genetic diversity and how natural selection in humans affects loci related to diseases
 
 == Research
