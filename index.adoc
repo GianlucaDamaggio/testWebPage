@@ -18,13 +18,12 @@ Numerical and structural chromosomal abnormalities are routinely investigated to
 
 This project will identify variants severely disrupting genes and regulatory functions, therefore incompatible with life, using whole genome sequence of DNA extracted from chorionic villi of miscarriages collected from women with RPL.
 
+image:images/preSeq_screaning.png[preSeq_screaning,500,400,role="left"] This project will identify variants severely disrupting genes and regulatory functions, therefore incompatible with life, using whole genome sequence of DNA extracted from chorionic villi of miscarriages collected from women with RPL.
+
 We will identify the highly deleterious dominant mutations as well as rare moderately to highly deleterious recessive mutations that constitute the genetic load of human populations and contribute to miscarriage. Participant inclusion criteria (e.g. recurrence, consanguinity, selection of comorbidities) will ensure the prevalence of genetic over environmental causes, and pre-sequencing screening will exclude cases with large chromosomal aberration.
 
+We are interestd in sequencing euploid miscarriages, therfore we do a pre-sequencing screening to exclude aneuploidies and comorbidity. We estimated that 20% of collected samples is euploid. We also find that with current methods it is not possible to make a diagnosis in about 25% of the samples.
 
-.We are interestd in sequencing euploid miscarriages, therfore we do a pre-sequencing screening to exclude aneuploidies and comorbidity. We estimated that 20% of collected samples is euploid. We also find that with current methods it is not possible to make a diagnosis in about 25% of the samples.
-[#img-preSeq_screaning]
-[caption="Figure 1.1: ",link=https://github.com/GianlucaDamaggio/testWebPage/blob/master/image/preSeq_screaning.png]
-image::images/preSeq_screaning.png[preSeq_screaning,500]
 
 This project is in collaboration with:
 
@@ -49,10 +48,11 @@ We discovered 746k high quality polymorphic sites analyzing sequence data of 373
 
 (iv) discover significant association between genetic markers and traits related to pepper fruit shape and size in C. annuum, including a non-synonymous change in the sequence of longifolia 1-like gene associated with variance in fruit elongation.
 
-.Our collection includes 373 pepper accessions from eleven species from 51 countries. It covers all the economically important species of Capsicum widely used in breeding programs, representing the largest study so far in terms of number of species and number of genetic variants analyzed.
 [#img-capsicum]
 [caption="Figure 1.2: ",link=https://github.com/GianlucaDamaggio/testWebPage/blob/master/image/preSeq_screaning.png]
 image::images/capsicum.png[preSeq_screaning,1000]
+
+Our collection includes 373 pepper accessions from eleven species from 51 countries. It covers all the economically important species of Capsicum widely used in breeding programs, representing the largest study so far in terms of number of species and number of genetic variants analyzed.
 
 This project is a collaboration with Pasquale Tripodi and Nunzio D'Agostino at http://sito.entecra.it/portale/cra_dati_istituto.php?id=207[CREA]
 
