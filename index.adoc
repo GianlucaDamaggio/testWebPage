@@ -86,7 +86,7 @@ We are interested in understanding and characterizing the incidence of deleterio
 
 == People
 
-=== Vincenza Colonna
+=== *Vincenza Colonna*
 
 image:images/vcolonna.jpg[vcolonna,400,role="right"] I am a researcher at the Institue of Genetics and Biophysics of the Italian National Research Council. I graduated in Evolutionary Biology from University of Napoli Federico II (Italy), did postdoctoral work at University of Ferrara (Italy) and at the Wellcome Trust Sanger Institute (UK). I was lectures in Genetics and Bioinformatics at the University of Ferrara (Italy). See my full C.V. http://www.igb.cnr.it/popgenlab/cvenza[here].
 
@@ -103,14 +103,14 @@ I founded and led http://www.igb.cnr.it/obilab[OBiLab], a project on training in
 
 
 
-=== Silvia Buonaiuto, PhD student
+=== *Silvia Buonaiuto*, PhD student
 
 image:images/silvia.jpg[silvia,200,role="right"] I am a Phd Student at National Research Council and Università della Campania Luigi Vanvitelli. I work on a project that studies idiopathic recurrent miscarriage and aims at identifying genetic variants likely to cause miscarriages to ultimately improve prenatal diagnosis.
 
 I have a master’s degree in Biology from the University of Napoli Federico II. I did a master thesis in molecular biology at the Department of Biology.
 
 
-=== Gianluca Damaggio, Master Student
+=== *Gianluca Damaggio*, Master Student
 
 image:images/gianluca.jpg[gianluca,200,role="right"] I received a bachelor's degree in Molecular Biology at the University of Napoli Federico II (Italy) and now I am a master's student at the Institue of Genetics and Biophysics of the Italian National Research Council.
 
@@ -119,13 +119,13 @@ My project consists in the analysis of  embryonic whole-genome sequences from re
 I am also collaborating to project with the Laboratory of Elena Cattaneo in Milano. My contribution is to set up a pipeline to count the number of repeats in the Huntington's gene.
 
 
-=== Flavia Villani, Master Student
+=== *Flavia Villani*, Master Student
 
 I am a master's student at the Institue of Genetics and Biophysics of the Italian National Research Council. I graduated in Biology at the University of Fisciano (Italy).
 
 I contributed to a project that studies idiopathic recurrent miscarriage. Currently, I am working to build a library using the Python programming language for the statistical analysis of negative selection using sequence data. In particular, I am focusing on the use of pangenomic sequence data.
 
-=== Giuliana D'angelo, Master Student
+=== *Giuliana D'angelo*, Master Student
 
 I am a molecular biology student at University of Naples Federico II currently working on my master's degree thesis at the Institue of Genetics and Biophysics of the Italian National Research Council.
 
