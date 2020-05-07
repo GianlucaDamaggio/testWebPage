@@ -51,7 +51,7 @@ We discovered 746k high quality polymorphic sites analyzing sequence data of 373
 
 [#img-capsicum]
 [caption="Figure 1.2: ",link=https://github.com/GianlucaDamaggio/testWebPage/blob/master/image/preSeq_screaning.png]
-image::images/capsicum.png[preSeq_screaning,1000]
+image::images/capsicum.png[capsicum,1000]
 
 Our collection includes 373 pepper accessions from eleven species from 51 countries. It covers all the economically important species of Capsicum widely used in breeding programs, representing the largest study so far in terms of number of species and number of genetic variants analyzed.
 
